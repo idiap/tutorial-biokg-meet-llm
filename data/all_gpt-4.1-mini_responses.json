@@ -1,0 +1,3974 @@
+{
+    "8701013": [
+        {
+            "text": "Famotidine",
+            "mesh_id": "D005727"
+        },
+        {
+            "text": "delirium",
+            "mesh_id": "D003651"
+        },
+        {
+            "text": "ulcers",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "famotidine",
+            "mesh_id": "D005727"
+        }
+    ],
+    "439781": [
+        {
+            "text": "Indomethacin",
+            "mesh_id": "D004142"
+        },
+        {
+            "text": "hypotension",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "sodium",
+            "mesh_id": "D012008"
+        },
+        {
+            "text": "indomethacin",
+            "mesh_id": "D004142"
+        },
+        {
+            "text": "IDM",
+            "mesh_id": "D004142"
+        },
+        {
+            "text": "prostaglandin",
+            "mesh_id": "D011973"
+        },
+        {
+            "text": "angiotensin",
+            "mesh_id": "D000680"
+        }
+    ],
+    "22836123": [
+        {
+            "text": "scleroderma renal crisis",
+            "mesh_id": "D020523"
+        },
+        {
+            "text": "tacrolimus",
+            "mesh_id": "D061158"
+        },
+        {
+            "text": "prednisolone",
+            "mesh_id": "D011506"
+        },
+        {
+            "text": "Scleroderma renal crisis",
+            "mesh_id": "D020523"
+        },
+        {
+            "text": "SRC",
+            "mesh_id": "D020523"
+        },
+        {
+            "text": "systemic sclerosis",
+            "mesh_id": "D013940"
+        },
+        {
+            "text": "SSc",
+            "mesh_id": "D013940"
+        },
+        {
+            "text": "corticosteroid",
+            "mesh_id": "D002946"
+        },
+        {
+            "text": "thrombotic microangiopathy",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "cyclosporine",
+            "mesh_id": "D002933"
+        },
+        {
+            "text": "corticosteroids",
+            "mesh_id": "D002946"
+        }
+    ],
+    "23433219": [
+        {
+            "text": "methamphetamine",
+            "mesh_id": "D008636"
+        },
+        {
+            "text": "psychosis",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "psychiatric disorders",
+            "mesh_id": "D001523"
+        },
+        {
+            "text": "psychotic symptoms",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "depressive disorder",
+            "mesh_id": "D003866"
+        },
+        {
+            "text": "bipolar disorder",
+            "mesh_id": "D001714"
+        },
+        {
+            "text": "antisocial personality disorder",
+            "mesh_id": "D001005"
+        },
+        {
+            "text": "Major depressive disorder",
+            "mesh_id": "D003865"
+        },
+        {
+            "text": "affective disorder",
+            "mesh_id": "D001899"
+        },
+        {
+            "text": "antisocial personality",
+            "mesh_id": "D001005"
+        }
+    ],
+    "23535177": [
+        {
+            "text": "Parkinson's disease",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "dyskinetic",
+            "mesh_id": "D004352"
+        },
+        {
+            "text": "PD",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "levodopa",
+            "mesh_id": "D007053"
+        },
+        {
+            "text": "dyskinesias",
+            "mesh_id": "D004352"
+        },
+        {
+            "text": "LIDs",
+            "mesh_id": "D004352"
+        },
+        {
+            "text": "abnormal involuntary movements",
+            "mesh_id": "D004352"
+        }
+    ],
+    "23666265": [
+        {
+            "text": "cyclophosphamide",
+            "mesh_id": "D015462"
+        },
+        {
+            "text": "cystitis",
+            "mesh_id": "D003261"
+        },
+        {
+            "text": "CYP",
+            "mesh_id": "D015462"
+        },
+        {
+            "text": "Suramin",
+            "mesh_id": "D013507"
+        },
+        {
+            "text": "GR 82334",
+            "mesh_id": "D000068877"
+        },
+        {
+            "text": "pain",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "Cyclophosphamide",
+            "mesh_id": "D015462"
+        },
+        {
+            "text": "edema",
+            "mesh_id": "D004726"
+        }
+    ],
+    "23846525": [
+        {
+            "text": "hepatitis",
+            "mesh_id": "D006506"
+        },
+        {
+            "text": "clopidogrel",
+            "mesh_id": "D015153"
+        },
+        {
+            "text": "hepatotoxicity",
+            "mesh_id": "D006506"
+        },
+        {
+            "text": "hepatic injury",
+            "mesh_id": "D006506"
+        }
+    ],
+    "23864035": [
+        {
+            "text": "Bortezomib",
+            "mesh_id": "D055242"
+        },
+        {
+            "text": "dexamethasone",
+            "mesh_id": "D003855"
+        },
+        {
+            "text": "multiple myeloma",
+            "mesh_id": "D009231"
+        },
+        {
+            "text": "bort",
+            "mesh_id": "D055242"
+        },
+        {
+            "text": "dex",
+            "mesh_id": "D003855"
+        },
+        {
+            "text": "MM",
+            "mesh_id": "D009231"
+        },
+        {
+            "text": "peripheral neuropathy",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "Bort",
+            "mesh_id": "D055242"
+        }
+    ],
+    "23871786": [
+        {
+            "text": "Bisphenol A",
+            "mesh_id": "D001244"
+        },
+        {
+            "text": "anxiety",
+            "mesh_id": "D001008"
+        },
+        {
+            "text": "BPA",
+            "mesh_id": "D001244"
+        }
+    ],
+    "23872883": [
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "Cardiovascular diseases",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "CVDs",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "isoproterenol",
+            "mesh_id": "D007022"
+        },
+        {
+            "text": "lactate",
+            "mesh_id": "D007875"
+        },
+        {
+            "text": "creatine",
+            "mesh_id": "D003548"
+        },
+        {
+            "text": "alanine",
+            "mesh_id": "D000257"
+        },
+        {
+            "text": "aspartate",
+            "mesh_id": "D001172"
+        },
+        {
+            "text": "angiotensin",
+            "mesh_id": "D000682"
+        },
+        {
+            "text": "cholesterol",
+            "mesh_id": "D008074"
+        },
+        {
+            "text": "triglycerides",
+            "mesh_id": "D020211"
+        },
+        {
+            "text": "fatty acid",
+            "mesh_id": "D005776"
+        },
+        {
+            "text": "malondialdehyde",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "MDA",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "nitric oxide",
+            "mesh_id": "D009025"
+        },
+        {
+            "text": "glutathione",
+            "mesh_id": "D005423"
+        },
+        {
+            "text": "superoxide",
+            "mesh_id": "D012307"
+        },
+        {
+            "text": "Captopril",
+            "mesh_id": "D002769"
+        }
+    ],
+    "23892921": [
+        {
+            "text": "lenalidomide",
+            "mesh_id": "D020067"
+        },
+        {
+            "text": "dexamethasone",
+            "mesh_id": "D004072"
+        },
+        {
+            "text": "multiple myeloma",
+            "mesh_id": "D009231"
+        },
+        {
+            "text": "Myeloma",
+            "mesh_id": "D009231"
+        },
+        {
+            "text": "Lenalidomide",
+            "mesh_id": "D020067"
+        },
+        {
+            "text": "RD",
+            "mesh_id": "D020067"
+        },
+        {
+            "text": "RRMM",
+            "mesh_id": "D009231"
+        },
+        {
+            "text": "thalidomide",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "bortezomib",
+            "mesh_id": "D061073"
+        },
+        {
+            "text": "myelosuppression",
+            "mesh_id": "D009203"
+        },
+        {
+            "text": "Peripheral neuropathy",
+            "mesh_id": "D010276"
+        },
+        {
+            "text": "deep vein thrombosis",
+            "mesh_id": "D004182"
+        }
+    ],
+    "23949582": [
+        {
+            "text": "ifosfamide",
+            "mesh_id": "D007886"
+        },
+        {
+            "text": "mesna",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "Ifosfamide",
+            "mesh_id": "D007886"
+        },
+        {
+            "text": "IFO",
+            "mesh_id": "D007886"
+        },
+        {
+            "text": "nitrogen",
+            "mesh_id": "D009008"
+        },
+        {
+            "text": "hemorrhagic cystitis",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "sodium 2-sulfanylethanesulfonate",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "Mesna",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "genotoxicity",
+            "mesh_id": "D005260"
+        }
+    ],
+    "23952588": [
+        {
+            "text": "levodopa",
+            "mesh_id": "D007053"
+        },
+        {
+            "text": "dyskinesia",
+            "mesh_id": "D004296"
+        },
+        {
+            "text": "Parkinson's disease",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "PD",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "Dyskinesia",
+            "mesh_id": "D004296"
+        }
+    ],
+    "24040781": [
+        {
+            "text": "proteinuria",
+            "mesh_id": "D011506"
+        },
+        {
+            "text": "everolimus",
+            "mesh_id": "D061158"
+        },
+        {
+            "text": "AL",
+            "mesh_id": "D001327"
+        },
+        {
+            "text": "amyloidosis",
+            "mesh_id": "D000682"
+        },
+        {
+            "text": "Proteinuria",
+            "mesh_id": "D011506"
+        },
+        {
+            "text": "rapamycin",
+            "mesh_id": "D019937"
+        },
+        {
+            "text": "fibrosis",
+            "mesh_id": "D005334"
+        },
+        {
+            "text": "atrophy",
+            "mesh_id": "D000293"
+        },
+        {
+            "text": "glomerulopathy",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "tacrolimus",
+            "mesh_id": "D020311"
+        }
+    ],
+    "24067251": [
+        {
+            "text": "kidney injury",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "tenofovir disoproxil fumarate",
+            "mesh_id": "D061128"
+        },
+        {
+            "text": "tenofovir",
+            "mesh_id": "D061128"
+        },
+        {
+            "text": "TDF",
+            "mesh_id": "D061128"
+        },
+        {
+            "text": "acute kidney injury",
+            "mesh_id": "D020939"
+        },
+        {
+            "text": "kidney tubular dysfunction",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "Fanconi syndrome",
+            "mesh_id": "D005796"
+        },
+        {
+            "text": "kidney disease",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "glomerular dysfunction",
+            "mesh_id": "D007676"
+        }
+    ],
+    "24068571": [
+        {
+            "text": "postoperative delirium",
+            "mesh_id": "D003704"
+        },
+        {
+            "text": "Postoperative delirium",
+            "mesh_id": "D003704"
+        },
+        {
+            "text": "delirium",
+            "mesh_id": "D003704"
+        },
+        {
+            "text": "neurological dysfunctions",
+            "mesh_id": "D009422"
+        },
+        {
+            "text": "confusion",
+            "mesh_id": "D003704"
+        },
+        {
+            "text": "thiopentone",
+            "mesh_id": "D013273"
+        },
+        {
+            "text": "propofol",
+            "mesh_id": "D017332"
+        },
+        {
+            "text": "Thiopentone",
+            "mesh_id": "D013273"
+        }
+    ],
+    "24072398": [
+        {
+            "text": "neurotoxic",
+            "mesh_id": "D009422"
+        },
+        {
+            "text": "methamphetamine",
+            "mesh_id": "D008636"
+        },
+        {
+            "text": "depressive",
+            "mesh_id": "D003863"
+        },
+        {
+            "text": "Methamphetamine",
+            "mesh_id": "D008636"
+        },
+        {
+            "text": "METH",
+            "mesh_id": "D008636"
+        },
+        {
+            "text": "depressive symptoms",
+            "mesh_id": "D003863"
+        },
+        {
+            "text": "dopamine",
+            "mesh_id": "D003529"
+        },
+        {
+            "text": "DOPAC",
+            "mesh_id": "D000068877"
+        },
+        {
+            "text": "HVA",
+            "mesh_id": "D000068878"
+        },
+        {
+            "text": "tyrosine",
+            "mesh_id": "D013612"
+        },
+        {
+            "text": "serotonin",
+            "mesh_id": "D012701"
+        },
+        {
+            "text": "depression",
+            "mesh_id": "D003863"
+        }
+    ],
+    "24088636": [
+        {
+            "text": "Linezolid",
+            "mesh_id": "D016344"
+        },
+        {
+            "text": "optic neuropathy",
+            "mesh_id": "D010346"
+        },
+        {
+            "text": "loss of vision",
+            "mesh_id": "D008741"
+        },
+        {
+            "text": "linezolid",
+            "mesh_id": "D016344"
+        },
+        {
+            "text": "ethambutol",
+            "mesh_id": "D004675"
+        },
+        {
+            "text": "extensively drug-resistant tuberculosis",
+            "mesh_id": "D000073382"
+        },
+        {
+            "text": "XDR-TB",
+            "mesh_id": "D000073382"
+        },
+        {
+            "text": "optic disc edema",
+            "mesh_id": "D018307"
+        },
+        {
+            "text": "Ethambutol",
+            "mesh_id": "D004675"
+        },
+        {
+            "text": "toxic optic neuropathy",
+            "mesh_id": "D010346"
+        },
+        {
+            "text": "Deterioration of vision",
+            "mesh_id": "D008741"
+        }
+    ],
+    "24091473": [
+        {
+            "text": "epinephrine",
+            "mesh_id": "D000296"
+        },
+        {
+            "text": "levobupivacaine",
+            "mesh_id": "D061360"
+        },
+        {
+            "text": "cardiac toxicity",
+            "mesh_id": "D006331"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "cardiovascular collapse",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "ventricular tachycardia",
+            "mesh_id": "D014818"
+        },
+        {
+            "text": "fibrillation",
+            "mesh_id": "D005261"
+        },
+        {
+            "text": "Epinephrine",
+            "mesh_id": "D000296"
+        }
+    ],
+    "24100055": [
+        {
+            "text": "heparin",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "thrombocytopenia type II",
+            "mesh_id": "D020424"
+        },
+        {
+            "text": "Thrombocytopenia",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "end-stage liver disease",
+            "mesh_id": "D016164"
+        },
+        {
+            "text": "portal hypertension",
+            "mesh_id": "D011014"
+        },
+        {
+            "text": "endotoxemia",
+            "mesh_id": "D004785"
+        },
+        {
+            "text": "HIT type II",
+            "mesh_id": "D020424"
+        },
+        {
+            "text": "thrombocytopenia",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "end-stage or malignant liver disease",
+            "mesh_id": "D016164"
+        },
+        {
+            "text": "End-Stage Liver Disease",
+            "mesh_id": "D016164"
+        },
+        {
+            "text": "liver cirrhosis",
+            "mesh_id": "D008103"
+        },
+        {
+            "text": "HIT II",
+            "mesh_id": "D020424"
+        },
+        {
+            "text": "HIT",
+            "mesh_id": "D020424"
+        },
+        {
+            "text": "end-stage hepatic failure",
+            "mesh_id": "D016164"
+        }
+    ],
+    "24100257": [
+        {
+            "text": "Takotsubo syndrome",
+            "mesh_id": "D065630"
+        },
+        {
+            "text": "apical ballooning syndrome",
+            "mesh_id": "D065630"
+        },
+        {
+            "text": "Zolmitriptan",
+            "mesh_id": "D016352"
+        },
+        {
+            "text": "TS",
+            "mesh_id": "D065630"
+        },
+        {
+            "text": "broken heart syndrome",
+            "mesh_id": "D065630"
+        },
+        {
+            "text": "acute coronary syndrome",
+            "mesh_id": "D015545"
+        },
+        {
+            "text": "mitral valve prolapse",
+            "mesh_id": "D008074"
+        },
+        {
+            "text": "migraines",
+            "mesh_id": "D008882"
+        },
+        {
+            "text": "chest pain",
+            "mesh_id": "D002705"
+        },
+        {
+            "text": "zolmitriptan",
+            "mesh_id": "D016352"
+        },
+        {
+            "text": "migraine headache",
+            "mesh_id": "D008882"
+        },
+        {
+            "text": "status migrainosus",
+            "mesh_id": "D018933"
+        },
+        {
+            "text": "coronary artery vasospasm",
+            "mesh_id": "D002318"
+        }
+    ],
+    "24114426": [
+        {
+            "text": "Depression",
+            "mesh_id": "D003866"
+        },
+        {
+            "text": "impulsiveness",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "3,4-methylenedioxymethamphetamine",
+            "mesh_id": "D000069822"
+        },
+        {
+            "text": "MDMA",
+            "mesh_id": "D000069822"
+        },
+        {
+            "text": "ecstasy",
+            "mesh_id": "D000069822"
+        },
+        {
+            "text": "Ecstasy",
+            "mesh_id": "D000069822"
+        },
+        {
+            "text": "alcohol",
+            "mesh_id": "D000437"
+        },
+        {
+            "text": "nicotine",
+            "mesh_id": "D009103"
+        },
+        {
+            "text": "AN",
+            "mesh_id": "D000437"
+        },
+        {
+            "text": "cannabis",
+            "mesh_id": "D002282"
+        },
+        {
+            "text": "CAN",
+            "mesh_id": "D002282"
+        },
+        {
+            "text": "Impulsiveness",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "impaired memory",
+            "mesh_id": "D008145"
+        },
+        {
+            "text": "depression",
+            "mesh_id": "D003866"
+        },
+        {
+            "text": "sleep disturbance",
+            "mesh_id": "D012934"
+        }
+    ],
+    "24126708": [
+        {
+            "text": "levodopa",
+            "mesh_id": "D007333"
+        },
+        {
+            "text": "Parkinson's disease",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "Levodopa",
+            "mesh_id": "D007333"
+        },
+        {
+            "text": "dyskinesia",
+            "mesh_id": "D004307"
+        },
+        {
+            "text": "visual hallucinations",
+            "mesh_id": "D006943"
+        },
+        {
+            "text": "glutamate",
+            "mesh_id": "D005816"
+        },
+        {
+            "text": "idiopathic Parkinson's disease",
+            "mesh_id": "D010300"
+        }
+    ],
+    "24132704": [
+        {
+            "text": "Crocin",
+            "mesh_id": "D015032"
+        },
+        {
+            "text": "diazinon",
+            "mesh_id": "D004015"
+        },
+        {
+            "text": "Diazinon",
+            "mesh_id": "D004015"
+        },
+        {
+            "text": "organophosphorus",
+            "mesh_id": "D009043"
+        },
+        {
+            "text": "crocin",
+            "mesh_id": "D015032"
+        },
+        {
+            "text": "cholesterol",
+            "mesh_id": "D008074"
+        },
+        {
+            "text": "triglyceride",
+            "mesh_id": "D013967"
+        },
+        {
+            "text": "hyperlipemia",
+            "mesh_id": "D006943"
+        }
+    ],
+    "24158386": [
+        {
+            "text": "GEM",
+            "mesh_id": "D005260"
+        },
+        {
+            "text": "Hodgkin lymphoma",
+            "mesh_id": "D006943"
+        },
+        {
+            "text": "HL",
+            "mesh_id": "D006943"
+        },
+        {
+            "text": "malignancy",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "Gemcitabine",
+            "mesh_id": "D017875"
+        },
+        {
+            "text": "cisplatin",
+            "mesh_id": "D002971"
+        },
+        {
+            "text": "gemcitabine",
+            "mesh_id": "D017875"
+        },
+        {
+            "text": "methylprednisolone",
+            "mesh_id": "D008992"
+        },
+        {
+            "text": "toxicities",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "neutropenia",
+            "mesh_id": "D009206"
+        },
+        {
+            "text": "thrombocytopenia",
+            "mesh_id": "D013740"
+        }
+    ],
+    "24190587": [
+        {
+            "text": "ecstasy",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "Ecstasy",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "MDMA",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "psychobiological dysfunction",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "cortisol",
+            "mesh_id": "D002317"
+        },
+        {
+            "text": "anxiety",
+            "mesh_id": "D001008"
+        },
+        {
+            "text": "depression",
+            "mesh_id": "D003866"
+        }
+    ],
+    "24209900": [
+        {
+            "text": "Ifosfamide",
+            "mesh_id": "D007886"
+        },
+        {
+            "text": "encephalopathy",
+            "mesh_id": "D004801"
+        },
+        {
+            "text": "cancers",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "sarcomas",
+            "mesh_id": "D012306"
+        },
+        {
+            "text": "lymphoma",
+            "mesh_id": "D008545"
+        },
+        {
+            "text": "gynecologic and testicular cancers",
+            "mesh_id": "D005260"
+        },
+        {
+            "text": "Encephalopathy",
+            "mesh_id": "D004801"
+        },
+        {
+            "text": "ifosfamide",
+            "mesh_id": "D007886"
+        },
+        {
+            "text": "Cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "convulsions",
+            "mesh_id": "D003909"
+        },
+        {
+            "text": "non-convulsive status epilepticus",
+            "mesh_id": "D020332"
+        },
+        {
+            "text": "NCSE",
+            "mesh_id": "D020332"
+        }
+    ],
+    "24220752": [
+        {
+            "text": "contrast",
+            "mesh_id": "D015179"
+        },
+        {
+            "text": "nephropathy",
+            "mesh_id": "D009392"
+        },
+        {
+            "text": "cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "acute renal failure",
+            "mesh_id": "D000530"
+        },
+        {
+            "text": "creatinine",
+            "mesh_id": "D003576"
+        },
+        {
+            "text": "Cr",
+            "mesh_id": "D003576"
+        },
+        {
+            "text": "bevacizumab",
+            "mesh_id": "D061362"
+        },
+        {
+            "text": "irinotecan",
+            "mesh_id": "D007875"
+        },
+        {
+            "text": "hypertension",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "Hypertension",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "Contrast",
+            "mesh_id": "D015179"
+        }
+    ],
+    "24234943": [
+        {
+            "text": "Syndrome of inappropriate antidiuretic hormone",
+            "mesh_id": "D012934"
+        },
+        {
+            "text": "desvenlafaxine",
+            "mesh_id": "D061360"
+        },
+        {
+            "text": "syndrome of inappropriate anti-diuretic hormone",
+            "mesh_id": "D012934"
+        },
+        {
+            "text": "SIADH",
+            "mesh_id": "D012934"
+        },
+        {
+            "text": "hyponatraemia",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "nausea",
+            "mesh_id": "D009296"
+        },
+        {
+            "text": "anxiety",
+            "mesh_id": "D001008"
+        },
+        {
+            "text": "confusion",
+            "mesh_id": "D003704"
+        },
+        {
+            "text": "sodium",
+            "mesh_id": "D012022"
+        },
+        {
+            "text": "Desvenlafaxine",
+            "mesh_id": "D061360"
+        },
+        {
+            "text": "mirtazapine",
+            "mesh_id": "D008545"
+        },
+        {
+            "text": "hyponatremia",
+            "mesh_id": "D006967"
+        }
+    ],
+    "24275640": [
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "doxorubicin",
+            "mesh_id": "D004276"
+        },
+        {
+            "text": "DOX",
+            "mesh_id": "D004276"
+        },
+        {
+            "text": "cardiac disarrangement",
+            "mesh_id": "D006320"
+        },
+        {
+            "text": "necrosis",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014806"
+        }
+    ],
+    "24283660": [
+        {
+            "text": "Tacrolimus",
+            "mesh_id": "D061297"
+        },
+        {
+            "text": "seizure",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "seizures",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "Seizures",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "tonic-clonic seizures",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "end-stage liver disease",
+            "mesh_id": "D016164"
+        },
+        {
+            "text": "bilirubin",
+            "mesh_id": "D001600"
+        },
+        {
+            "text": "TAC",
+            "mesh_id": "D061297"
+        },
+        {
+            "text": "epileptic",
+            "mesh_id": "D004827"
+        }
+    ],
+    "24284476": [
+        {
+            "text": "flavonoid",
+            "mesh_id": "D005818"
+        },
+        {
+            "text": "apigenin",
+            "mesh_id": "D001543"
+        },
+        {
+            "text": "amnesia",
+            "mesh_id": "D000416"
+        },
+        {
+            "text": "scopolamine",
+            "mesh_id": "D012940"
+        },
+        {
+            "text": "memory loss",
+            "mesh_id": "D016454"
+        }
+    ],
+    "24309294": [
+        {
+            "text": "Cholecystokinin-octapeptide",
+            "mesh_id": "D002134"
+        },
+        {
+            "text": "morphine",
+            "mesh_id": "D008863"
+        },
+        {
+            "text": "CCK-8",
+            "mesh_id": "D002134"
+        },
+        {
+            "text": "amnesia",
+            "mesh_id": "D000414"
+        },
+        {
+            "text": "memory impairment",
+            "mesh_id": "D008875"
+        }
+    ],
+    "24333387": [
+        {
+            "text": "neurotoxicity",
+            "mesh_id": "D009422"
+        },
+        {
+            "text": "Streptozotocin",
+            "mesh_id": "D013313"
+        },
+        {
+            "text": "memory impairment",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "STZ",
+            "mesh_id": "D013313"
+        },
+        {
+            "text": "memory impaired",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "Memory deficit",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "neuroinflammation",
+            "mesh_id": "D057522"
+        },
+        {
+            "text": "nitrite",
+            "mesh_id": "D009153"
+        },
+        {
+            "text": "Ca",
+            "mesh_id": "D002317"
+        },
+        {
+            "text": "excitotoxicity",
+            "mesh_id": "D015462"
+        },
+        {
+            "text": "Memantine",
+            "mesh_id": "D058830"
+        },
+        {
+            "text": "Ibuprofen",
+            "mesh_id": "D007052"
+        },
+        {
+            "text": "neuroinflammatory",
+            "mesh_id": "D057522"
+        }
+    ],
+    "24341598": [
+        {
+            "text": "sodium chloride",
+            "mesh_id": "D000830"
+        },
+        {
+            "text": "diltiazem",
+            "mesh_id": "D004616"
+        },
+        {
+            "text": "contrast",
+            "mesh_id": "D003145"
+        },
+        {
+            "text": "nephropathy",
+            "mesh_id": "D009210"
+        },
+        {
+            "text": "Contrast",
+            "mesh_id": "D003145"
+        },
+        {
+            "text": "sodium bicarbonate",
+            "mesh_id": "D012043"
+        },
+        {
+            "text": "calcium",
+            "mesh_id": "D002059"
+        },
+        {
+            "text": "creatinine",
+            "mesh_id": "D003640"
+        },
+        {
+            "text": "dextrose",
+            "mesh_id": "D004023"
+        },
+        {
+            "text": "blood urea nitrogen",
+            "mesh_id": "D001820"
+        },
+        {
+            "text": "BUN",
+            "mesh_id": "D001820"
+        },
+        {
+            "text": "acute renal failure",
+            "mesh_id": "D000530"
+        },
+        {
+            "text": "ARF",
+            "mesh_id": "D000530"
+        }
+    ],
+    "24345882": [
+        {
+            "text": "acute lymphoblastic leukemia",
+            "mesh_id": "D015470"
+        },
+        {
+            "text": "methotrexate",
+            "mesh_id": "D008772"
+        },
+        {
+            "text": "MTX",
+            "mesh_id": "D008772"
+        },
+        {
+            "text": "neurotoxicity",
+            "mesh_id": "D009422"
+        },
+        {
+            "text": "leukoencephalopathy",
+            "mesh_id": "D008521"
+        },
+        {
+            "text": "leukemia",
+            "mesh_id": "D007938"
+        },
+        {
+            "text": "attention problems",
+            "mesh_id": "D001283"
+        }
+    ],
+    "24434397": [
+        {
+            "text": "Tranexamic acid",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "seizure",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "renal failure",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "chronic kidney disease",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "tubulointerstial disease",
+            "mesh_id": "D014576"
+        },
+        {
+            "text": "anemia",
+            "mesh_id": "D000287"
+        },
+        {
+            "text": "menorrhagia",
+            "mesh_id": "D008687"
+        },
+        {
+            "text": "deterioration of renal function",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "TNA",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "bleeding",
+            "mesh_id": "D001821"
+        },
+        {
+            "text": "tonic clonic convulsions",
+            "mesh_id": "D001929"
+        },
+        {
+            "text": "nervous system abnormalities",
+            "mesh_id": "D009422"
+        },
+        {
+            "text": "convulsions",
+            "mesh_id": "D001929"
+        },
+        {
+            "text": "convulsion",
+            "mesh_id": "D001929"
+        },
+        {
+            "text": "overdose",
+            "mesh_id": "D000358"
+        }
+    ],
+    "24438483": [
+        {
+            "text": "bupivacaine",
+            "mesh_id": "D001006"
+        },
+        {
+            "text": "cardiovascular depression",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "propofol",
+            "mesh_id": "D017332"
+        },
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "ketamine",
+            "mesh_id": "D007937"
+        },
+        {
+            "text": "dysrhythmia",
+            "mesh_id": "D004924"
+        },
+        {
+            "text": "asystole",
+            "mesh_id": "D001241"
+        },
+        {
+            "text": "Bupivacaine",
+            "mesh_id": "D001006"
+        },
+        {
+            "text": "cardiotoxic",
+            "mesh_id": "D002318"
+        }
+    ],
+    "24451297": [
+        {
+            "text": "Drug-Induced Acute Liver Injury",
+            "mesh_id": "D024423"
+        },
+        {
+            "text": "Fluvastatin",
+            "mesh_id": "D016024"
+        },
+        {
+            "text": "statins",
+            "mesh_id": "D015607"
+        },
+        {
+            "text": "drug-induced liver injury",
+            "mesh_id": "D024423"
+        },
+        {
+            "text": "liver damage",
+            "mesh_id": "D008113"
+        },
+        {
+            "text": "fluvastatin",
+            "mesh_id": "D016024"
+        },
+        {
+            "text": "nausea",
+            "mesh_id": "D009296"
+        },
+        {
+            "text": "anorexia",
+            "mesh_id": "D000293"
+        },
+        {
+            "text": "abdominal pain",
+            "mesh_id": "D001141"
+        },
+        {
+            "text": "creatine",
+            "mesh_id": "D003548"
+        },
+        {
+            "text": "hepatic damage",
+            "mesh_id": "D008113"
+        }
+    ],
+    "24459006": [
+        {
+            "text": "Fluconazole",
+            "mesh_id": "D005784"
+        },
+        {
+            "text": "agranulocytosis",
+            "mesh_id": "D000166"
+        },
+        {
+            "text": "thrombocytopenia",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "fluconazole",
+            "mesh_id": "D005784"
+        },
+        {
+            "text": "blood dyscrasias",
+            "mesh_id": "D015179"
+        },
+        {
+            "text": "bone marrow suppression",
+            "mesh_id": "D001805"
+        }
+    ],
+    "24464946": [
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "epirubicine",
+            "mesh_id": "D019352"
+        },
+        {
+            "text": "myocardial strain",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "cardiac dysfunction",
+            "mesh_id": "D006331"
+        },
+        {
+            "text": "epirubicin",
+            "mesh_id": "D019352"
+        },
+        {
+            "text": "non-Hodgkin lymphoma",
+            "mesh_id": "D009210"
+        },
+        {
+            "text": "Cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "heart failure",
+            "mesh_id": "D006333"
+        },
+        {
+            "text": "anthracycline",
+            "mesh_id": "D000072877"
+        }
+    ],
+    "24535067": [
+        {
+            "text": "etomidate",
+            "mesh_id": "D004675"
+        },
+        {
+            "text": "myoclonus",
+            "mesh_id": "D009453"
+        },
+        {
+            "text": "Fentanyl",
+            "mesh_id": "D005277"
+        },
+        {
+            "text": "midazolam",
+            "mesh_id": "D008728"
+        },
+        {
+            "text": "fentanyl",
+            "mesh_id": "D005277"
+        },
+        {
+            "text": "Myoclonic movements",
+            "mesh_id": "D009453"
+        },
+        {
+            "text": "pain",
+            "mesh_id": "D010146"
+        }
+    ],
+    "24554916": [
+        {
+            "text": "Cholestatic",
+            "mesh_id": "D002027"
+        },
+        {
+            "text": "phosphorus",
+            "mesh_id": "D010170"
+        },
+        {
+            "text": "poisoning",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "hepatotoxicity",
+            "mesh_id": "D006506"
+        },
+        {
+            "text": "Poisoning",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "acute hepatitis",
+            "mesh_id": "D006506"
+        },
+        {
+            "text": "acute liver failure",
+            "mesh_id": "D016164"
+        },
+        {
+            "text": "cholestasis",
+            "mesh_id": "D002027"
+        }
+    ],
+    "24571687": [
+        {
+            "text": "Vasovagal syncope",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "bradycardia",
+            "mesh_id": "D001179"
+        },
+        {
+            "text": "dexmedetomidine",
+            "mesh_id": "D062991"
+        },
+        {
+            "text": "syncope",
+            "mesh_id": "D013806"
+        }
+    ],
+    "24582773": [
+        {
+            "text": "agitation",
+            "mesh_id": "D000169"
+        },
+        {
+            "text": "quetiapine",
+            "mesh_id": "D019916"
+        },
+        {
+            "text": "schizo-affective disorder",
+            "mesh_id": "D012559"
+        },
+        {
+            "text": "zuclopenthixol",
+            "mesh_id": "D019927"
+        },
+        {
+            "text": "lithium",
+            "mesh_id": "D007855"
+        },
+        {
+            "text": "personality disorder",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "antisocial disorder",
+            "mesh_id": "D000293"
+        },
+        {
+            "text": "substance abuse disorder",
+            "mesh_id": "D015288"
+        },
+        {
+            "text": "aggressiveness",
+            "mesh_id": "D000293"
+        },
+        {
+            "text": "manic",
+            "mesh_id": "D008180"
+        },
+        {
+            "text": "akathisia",
+            "mesh_id": "D000167"
+        }
+    ],
+    "24587916": [
+        {
+            "text": "dexamethasone",
+            "mesh_id": "D003855"
+        },
+        {
+            "text": "hypertension",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "Dexamethasone",
+            "mesh_id": "D003855"
+        },
+        {
+            "text": "Dex",
+            "mesh_id": "D003855"
+        },
+        {
+            "text": "iron",
+            "mesh_id": "D007125"
+        },
+        {
+            "text": "hydrogen peroxide",
+            "mesh_id": "D006943"
+        },
+        {
+            "text": "H2O2",
+            "mesh_id": "D006943"
+        },
+        {
+            "text": "weight loss",
+            "mesh_id": "D014943"
+        }
+    ],
+    "24588023": [
+        {
+            "text": "tranexamic acid",
+            "mesh_id": "D013591"
+        },
+        {
+            "text": "convulsive",
+            "mesh_id": "D011670"
+        },
+        {
+            "text": "seizures",
+            "mesh_id": "D011670"
+        },
+        {
+            "text": "seizure",
+            "mesh_id": "D011670"
+        },
+        {
+            "text": "abnormal involuntary motor movements",
+            "mesh_id": "D001523"
+        },
+        {
+            "text": "Generalised and focal seizures",
+            "mesh_id": "D011670"
+        },
+        {
+            "text": "congestive heart failure",
+            "mesh_id": "D006333"
+        },
+        {
+            "text": "hypothermic",
+            "mesh_id": "D006506"
+        },
+        {
+            "text": "Convulsive",
+            "mesh_id": "D011670"
+        },
+        {
+            "text": "postoperative complication",
+            "mesh_id": "D018475"
+        }
+    ],
+    "24595967": [
+        {
+            "text": "Dysfunctional overnight memory",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "ecstasy",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "sleep-related impairments",
+            "mesh_id": "D013930"
+        },
+        {
+            "text": "Ecstasy",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "impaired overnight memory",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "memory impairments",
+            "mesh_id": "D008875"
+        }
+    ],
+    "24614773": [
+        {
+            "text": "encephalopathy",
+            "mesh_id": "D004673"
+        },
+        {
+            "text": "valproate",
+            "mesh_id": "D014576"
+        },
+        {
+            "text": "confusion",
+            "mesh_id": "D003161"
+        },
+        {
+            "text": "aggression",
+            "mesh_id": "D000784"
+        },
+        {
+            "text": "auditory hallucinations",
+            "mesh_id": "D001933"
+        },
+        {
+            "text": "delusions",
+            "mesh_id": "D004234"
+        },
+        {
+            "text": "hemiparesis",
+            "mesh_id": "D006333"
+        },
+        {
+            "text": "hemiplegic migraine",
+            "mesh_id": "D018922"
+        },
+        {
+            "text": "Valproate",
+            "mesh_id": "D014576"
+        },
+        {
+            "text": "N-methyl-D-aspartate",
+            "mesh_id": "D009972"
+        },
+        {
+            "text": "NMDA",
+            "mesh_id": "D009972"
+        },
+        {
+            "text": "encephalitis",
+            "mesh_id": "D004673"
+        }
+    ],
+    "24618873": [
+        {
+            "text": "Cerebellar and oculomotor dysfunction",
+            "mesh_id": "D002258"
+        },
+        {
+            "text": "pethidine",
+            "mesh_id": "D011695"
+        },
+        {
+            "text": "Pethidine",
+            "mesh_id": "D011695"
+        },
+        {
+            "text": "pain",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "nausea",
+            "mesh_id": "D009296"
+        },
+        {
+            "text": "vomiting",
+            "mesh_id": "D014633"
+        },
+        {
+            "text": "hypotension",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "impaired renal and liver function",
+            "mesh_id": "D008099"
+        },
+        {
+            "text": "neurotoxic",
+            "mesh_id": "D009421"
+        },
+        {
+            "text": "norpethidine",
+            "mesh_id": "D000068877"
+        },
+        {
+            "text": "irritability",
+            "mesh_id": "D007856"
+        },
+        {
+            "text": "seizure",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "dysmetria",
+            "mesh_id": "D004332"
+        },
+        {
+            "text": "dysarthria",
+            "mesh_id": "D004276"
+        }
+    ],
+    "24641119": [
+        {
+            "text": "Baboon syndrome",
+            "mesh_id": "D000077877"
+        },
+        {
+            "text": "ketoconazole",
+            "mesh_id": "D003880"
+        },
+        {
+            "text": "maculopapular eruption",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "baboon syndrome",
+            "mesh_id": "D000077877"
+        }
+    ],
+    "24653743": [
+        {
+            "text": "Sudden Cardiac Death",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "Pilsicainide",
+            "mesh_id": "D058073"
+        },
+        {
+            "text": "Torsades de Pointes",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "pilsicainide",
+            "mesh_id": "D058073"
+        },
+        {
+            "text": "sodium",
+            "mesh_id": "D012022"
+        },
+        {
+            "text": "atrial fibrillation",
+            "mesh_id": "D001281"
+        },
+        {
+            "text": "sudden cardiac death",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "torsade de pointes",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "torsades de pointes",
+            "mesh_id": "D014806"
+        }
+    ],
+    "24658375": [
+        {
+            "text": "All-trans retinoic acid",
+            "mesh_id": "D000071382"
+        },
+        {
+            "text": "myositis",
+            "mesh_id": "D009202"
+        },
+        {
+            "text": "acute promyelocytic leukemia",
+            "mesh_id": "D015470"
+        },
+        {
+            "text": "ATRA",
+            "mesh_id": "D000071382"
+        },
+        {
+            "text": "APL",
+            "mesh_id": "D015470"
+        }
+    ],
+    "24659727": [
+        {
+            "text": "lomustine",
+            "mesh_id": "D016015"
+        },
+        {
+            "text": "cyclophosphamide",
+            "mesh_id": "D002927"
+        },
+        {
+            "text": "lymphoma",
+            "mesh_id": "D008545"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "CCNU",
+            "mesh_id": "D016015"
+        },
+        {
+            "text": "CTX",
+            "mesh_id": "D002927"
+        },
+        {
+            "text": "Neutropenia",
+            "mesh_id": "D009206"
+        },
+        {
+            "text": "neutropenia",
+            "mesh_id": "D009206"
+        },
+        {
+            "text": "hepatotoxicity",
+            "mesh_id": "D006506"
+        },
+        {
+            "text": "renal toxicity",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "hemorrhagic cystitis",
+            "mesh_id": "D006438"
+        },
+        {
+            "text": "tumor",
+            "mesh_id": "D009369"
+        }
+    ],
+    "24664478": [
+        {
+            "text": "Nelarabine",
+            "mesh_id": "D061187"
+        },
+        {
+            "text": "neurotoxicity",
+            "mesh_id": "D009422"
+        },
+        {
+            "text": "nelarabine",
+            "mesh_id": "D061187"
+        },
+        {
+            "text": "T-cell lymphoblastic lymphoma",
+            "mesh_id": "D015470"
+        },
+        {
+            "text": "leukemic",
+            "mesh_id": "D007938"
+        },
+        {
+            "text": "cytarabine",
+            "mesh_id": "D002810"
+        },
+        {
+            "text": "tumor lysis syndrome",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "TLS",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "peripheral neuropathy",
+            "mesh_id": "D010276"
+        },
+        {
+            "text": "neuropathy",
+            "mesh_id": "D009424"
+        }
+    ],
+    "24665854": [
+        {
+            "text": "Valproate",
+            "mesh_id": "D014702"
+        },
+        {
+            "text": "hyperammonemic",
+            "mesh_id": "D006974"
+        },
+        {
+            "text": "encephalopathy",
+            "mesh_id": "D004677"
+        },
+        {
+            "text": "Neurological complications",
+            "mesh_id": "D009422"
+        },
+        {
+            "text": "valproate",
+            "mesh_id": "D014702"
+        },
+        {
+            "text": "epilepsy",
+            "mesh_id": "D004827"
+        },
+        {
+            "text": "impaired consciousness",
+            "mesh_id": "D007146"
+        },
+        {
+            "text": "hyperammonemia",
+            "mesh_id": "D006974"
+        }
+    ],
+    "24671324": [
+        {
+            "text": "Necrotising fasciitis",
+            "mesh_id": "D009365"
+        },
+        {
+            "text": "bortezomib",
+            "mesh_id": "D061157"
+        },
+        {
+            "text": "dexamethasone",
+            "mesh_id": "D004315"
+        },
+        {
+            "text": "Waldenstrom macroglobulinaemia",
+            "mesh_id": "D014715"
+        },
+        {
+            "text": "Bortezomib",
+            "mesh_id": "D061157"
+        },
+        {
+            "text": "bacterial infections",
+            "mesh_id": "D001241"
+        },
+        {
+            "text": "malignancies",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "necrotising fasciitis",
+            "mesh_id": "D009365"
+        },
+        {
+            "text": "neutropenia",
+            "mesh_id": "D009206"
+        }
+    ],
+    "24675088": [
+        {
+            "text": "doxorubicin",
+            "mesh_id": "D004401"
+        },
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "DOX",
+            "mesh_id": "D004401"
+        },
+        {
+            "text": "cardiomyopathy",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "subcellular degeneration",
+            "mesh_id": "D054687"
+        },
+        {
+            "text": "cardiomyocyte degeneration",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "hypertrophy",
+            "mesh_id": "D006331"
+        },
+        {
+            "text": "fibrosis",
+            "mesh_id": "D005334"
+        },
+        {
+            "text": "LV dysfunction",
+            "mesh_id": "D016258"
+        },
+        {
+            "text": "gadolinium",
+            "mesh_id": "D005242"
+        },
+        {
+            "text": "diastolic dysfunction",
+            "mesh_id": "D004324"
+        }
+    ],
+    "24684312": [
+        {
+            "text": "glutamate",
+            "mesh_id": "D005816"
+        },
+        {
+            "text": "capsaicin",
+            "mesh_id": "D002991"
+        },
+        {
+            "text": "hyperalgesia",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "allodynia",
+            "mesh_id": "D000740"
+        },
+        {
+            "text": "pain",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "pain disorders",
+            "mesh_id": "D010147"
+        },
+        {
+            "text": "secondary hyperalgesia",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "Glutamate",
+            "mesh_id": "D005816"
+        },
+        {
+            "text": "Capsaicin",
+            "mesh_id": "D002991"
+        },
+        {
+            "text": "hyperalgesic",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "allodynic",
+            "mesh_id": "D000740"
+        }
+    ],
+    "24691439": [
+        {
+            "text": "glaucoma",
+            "mesh_id": "D005224"
+        },
+        {
+            "text": "ocular hypertension",
+            "mesh_id": "D009123"
+        },
+        {
+            "text": "primary open-angle glaucoma",
+            "mesh_id": "D011636"
+        },
+        {
+            "text": "POAG",
+            "mesh_id": "D011636"
+        },
+        {
+            "text": "dexamethasone",
+            "mesh_id": "D003917"
+        },
+        {
+            "text": "retinal ganglion",
+            "mesh_id": "D007282"
+        },
+        {
+            "text": "axonal degeneration",
+            "mesh_id": "D000245"
+        },
+        {
+            "text": "Dexamethasone",
+            "mesh_id": "D003917"
+        },
+        {
+            "text": "sodium 4-phenylbutyrate",
+            "mesh_id": "D058815"
+        }
+    ],
+    "24709919": [
+        {
+            "text": "ginsenosides",
+            "mesh_id": "D005973"
+        },
+        {
+            "text": "hyperalgesia",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "OIH",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "opioid addiction",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "Re, Rg1, and Rb1 ginsenosides",
+            "mesh_id": "D005973"
+        },
+        {
+            "text": "morphine",
+            "mesh_id": "D008863"
+        },
+        {
+            "text": "Re",
+            "mesh_id": "D005973"
+        },
+        {
+            "text": "Rg1",
+            "mesh_id": "D005973"
+        },
+        {
+            "text": "Rb1",
+            "mesh_id": "D005973"
+        },
+        {
+            "text": "acetic acid",
+            "mesh_id": "D000423"
+        },
+        {
+            "text": "Rg1 and Rb1 ginsenosides",
+            "mesh_id": "D005973"
+        },
+        {
+            "text": "ginsenoside Re",
+            "mesh_id": "D005973"
+        }
+    ],
+    "24717468": [
+        {
+            "text": "dexmedetomidine",
+            "mesh_id": "D064420"
+        },
+        {
+            "text": "propofol",
+            "mesh_id": "D017332"
+        },
+        {
+            "text": "Dexmedetomidine",
+            "mesh_id": "D064420"
+        },
+        {
+            "text": "hypotension",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "bradycardia",
+            "mesh_id": "D001179"
+        }
+    ],
+    "24727461": [
+        {
+            "text": "Hydroxytyrosol",
+            "mesh_id": "D000082574"
+        },
+        {
+            "text": "mitochondrial dysfunction",
+            "mesh_id": "D018475"
+        },
+        {
+            "text": "doxorubicin",
+            "mesh_id": "D004360"
+        },
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "breast cancer",
+            "mesh_id": "D001943"
+        },
+        {
+            "text": "cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "cardiovascular disease",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "Doxorubicin",
+            "mesh_id": "D004360"
+        },
+        {
+            "text": "cardiac toxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "hydroxytyrosol",
+            "mesh_id": "D000082574"
+        },
+        {
+            "text": "breast tumors",
+            "mesh_id": "D001943"
+        },
+        {
+            "text": "Cardiac disturbances",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "cardiac disturbances",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "heart damage",
+            "mesh_id": "D006331"
+        }
+    ],
+    "24729111": [
+        {
+            "text": "Amiodarone",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "myxoedema coma",
+            "mesh_id": "D009462"
+        },
+        {
+            "text": "bradycardia",
+            "mesh_id": "D001179"
+        },
+        {
+            "text": "hypothermia",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "respiratory failure",
+            "mesh_id": "D012424"
+        },
+        {
+            "text": "amiodarone",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "atrial fibrillation",
+            "mesh_id": "D001281"
+        },
+        {
+            "text": "thyroxine",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "steroids",
+            "mesh_id": "D005967"
+        },
+        {
+            "text": "levothyroxine",
+            "mesh_id": "D016967"
+        },
+        {
+            "text": "iodine",
+            "mesh_id": "D007726"
+        },
+        {
+            "text": "thyroid disease",
+            "mesh_id": "D013568"
+        }
+    ],
+    "24733133": [
+        {
+            "text": "argatroban",
+            "mesh_id": "D020195"
+        },
+        {
+            "text": "thrombolysis",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "heparin",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "thrombocytopenia",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "thrombosis",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "HITT",
+            "mesh_id": "D000073877"
+        },
+        {
+            "text": "amyloidosis",
+            "mesh_id": "D000293"
+        },
+        {
+            "text": "upper-extremity deep venous thrombosis",
+            "mesh_id": "D017603"
+        },
+        {
+            "text": "DVT",
+            "mesh_id": "D017603"
+        },
+        {
+            "text": "pulmonary embolism",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "superior vena cava (SVC) syndrome",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "epistaxis",
+            "mesh_id": "D004825"
+        },
+        {
+            "text": "warfarin",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "vision and hearing loss",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "end-stage renal disease",
+            "mesh_id": "D015472"
+        },
+        {
+            "text": "SVC syndrome",
+            "mesh_id": "D013812"
+        }
+    ],
+    "24739405": [
+        {
+            "text": "dehydroepiandrosterone",
+            "mesh_id": "D004927"
+        },
+        {
+            "text": "amphetamine",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "schizophrenia",
+            "mesh_id": "D012559"
+        },
+        {
+            "text": "DHEA",
+            "mesh_id": "D004927"
+        },
+        {
+            "text": "Amphetamine",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "hyper",
+            "mesh_id": "D006967"
+        },
+        {
+            "text": "apomorphine",
+            "mesh_id": "D000153"
+        },
+        {
+            "text": "haloperidol",
+            "mesh_id": "D006940"
+        },
+        {
+            "text": "catalepsy",
+            "mesh_id": "D002139"
+        }
+    ],
+    "24742750": [
+        {
+            "text": "QT prolongation",
+            "mesh_id": "D015356"
+        },
+        {
+            "text": "K",
+            "mesh_id": "D007044"
+        },
+        {
+            "text": "Ca",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "Amiodarone",
+            "mesh_id": "D000072"
+        },
+        {
+            "text": "Paroxetine",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "Terfenadine",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "Citalopram",
+            "mesh_id": "D015938"
+        },
+        {
+            "text": "Torsade de Pointes",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "TdP",
+            "mesh_id": "D014806"
+        }
+    ],
+    "24753331": [
+        {
+            "text": "toxicity",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "S-53482",
+            "mesh_id": "D000000"
+        },
+        {
+            "text": "S-23121",
+            "mesh_id": "D000000"
+        },
+        {
+            "text": "embryolethality",
+            "mesh_id": "D004855"
+        },
+        {
+            "text": "teratogenicity",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "ventricular septal defects",
+            "mesh_id": "D014818"
+        },
+        {
+            "text": "growth retardation",
+            "mesh_id": "D005260"
+        },
+        {
+            "text": "Toxicity",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "embryonic death",
+            "mesh_id": "D004855"
+        },
+        {
+            "text": "ventricular septal defect",
+            "mesh_id": "D014818"
+        },
+        {
+            "text": "teratogenic",
+            "mesh_id": "D013812"
+        }
+    ],
+    "24778426": [
+        {
+            "text": "Renal Toxicity",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "Cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "Cisplatin",
+            "mesh_id": "D002940"
+        },
+        {
+            "text": "Mannitol",
+            "mesh_id": "D008054"
+        },
+        {
+            "text": "cisplatin",
+            "mesh_id": "D002940"
+        },
+        {
+            "text": "nephrotoxicity",
+            "mesh_id": "D009365"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "mannitol",
+            "mesh_id": "D008054"
+        },
+        {
+            "text": "cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "acute kidney injury",
+            "mesh_id": "D014440"
+        },
+        {
+            "text": "AKI",
+            "mesh_id": "D014440"
+        },
+        {
+            "text": "head and neck cancer",
+            "mesh_id": "D006440"
+        },
+        {
+            "text": "malignancy",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "hypertension",
+            "mesh_id": "D006973"
+        }
+    ],
+    "24802403": [
+        {
+            "text": "Metformin",
+            "mesh_id": "D008687"
+        },
+        {
+            "text": "seizures",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "learning and memory impairments",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "pentylenetetrazole",
+            "mesh_id": "D011973"
+        },
+        {
+            "text": "Cognitive impairment",
+            "mesh_id": "D003231"
+        },
+        {
+            "text": "epilepsy",
+            "mesh_id": "D004827"
+        },
+        {
+            "text": "cognition deficits",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "cognitive deficits",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "metformin",
+            "mesh_id": "D008687"
+        },
+        {
+            "text": "cognitive impairment",
+            "mesh_id": "D003231"
+        },
+        {
+            "text": "PTZ",
+            "mesh_id": "D011973"
+        }
+    ],
+    "24812279": [
+        {
+            "text": "anthracycline",
+            "mesh_id": "D000414"
+        },
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "Doxorubicin",
+            "mesh_id": "D004276"
+        },
+        {
+            "text": "DOX",
+            "mesh_id": "D004276"
+        },
+        {
+            "text": "cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "heart failure",
+            "mesh_id": "D006333"
+        }
+    ],
+    "24816962": [
+        {
+            "text": "Metronidazole",
+            "mesh_id": "D008100"
+        },
+        {
+            "text": "encephalopathy",
+            "mesh_id": "D004801"
+        },
+        {
+            "text": "metronidazole",
+            "mesh_id": "D008100"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014806"
+        }
+    ],
+    "24840785": [
+        {
+            "text": "Aconitine",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "Ca",
+            "mesh_id": "D000067125"
+        },
+        {
+            "text": "arrhythmia",
+            "mesh_id": "D001284"
+        },
+        {
+            "text": "Na",
+            "mesh_id": "D000068382"
+        },
+        {
+            "text": "cardiotoxicity",
+            "mesh_id": "D002318"
+        },
+        {
+            "text": "aconitine",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "poisoning",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "myocardial injury",
+            "mesh_id": "D009203"
+        },
+        {
+            "text": "cytotoxicity",
+            "mesh_id": "D003924"
+        },
+        {
+            "text": "lactate",
+            "mesh_id": "D000359"
+        },
+        {
+            "text": "dUTP",
+            "mesh_id": "D000070877"
+        },
+        {
+            "text": "biotin",
+            "mesh_id": "D001765"
+        }
+    ],
+    "24842192": [
+        {
+            "text": "metformin",
+            "mesh_id": "D008687"
+        },
+        {
+            "text": "left ventricular dysfunction",
+            "mesh_id": "D015362"
+        },
+        {
+            "text": "myocardial infarction",
+            "mesh_id": "D009203"
+        },
+        {
+            "text": "AMP",
+            "mesh_id": "D000293"
+        },
+        {
+            "text": "cardiac dysfunction",
+            "mesh_id": "D002320"
+        },
+        {
+            "text": "isoproterenol",
+            "mesh_id": "D007328"
+        },
+        {
+            "text": "Isoproterenol",
+            "mesh_id": "D007328"
+        },
+        {
+            "text": "acute myocardial infarction",
+            "mesh_id": "D009203"
+        },
+        {
+            "text": "tumor",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "necrosis",
+            "mesh_id": "D009369"
+        }
+    ],
+    "24881749": [
+        {
+            "text": "Neuroleptic malignant syndrome",
+            "mesh_id": "D009206"
+        },
+        {
+            "text": "tetrabenazine",
+            "mesh_id": "D014024"
+        },
+        {
+            "text": "tiapride",
+            "mesh_id": "D061073"
+        },
+        {
+            "text": "Huntington's disease",
+            "mesh_id": "D006511"
+        },
+        {
+            "text": "breast cancer",
+            "mesh_id": "D001943"
+        },
+        {
+            "text": "neuroleptic malignant syndrome",
+            "mesh_id": "D009206"
+        },
+        {
+            "text": "Tetrabenazine",
+            "mesh_id": "D014024"
+        },
+        {
+            "text": "neuroleptic drugs",
+            "mesh_id": "D009206"
+        }
+    ],
+    "24894748": [
+        {
+            "text": "metoprolol",
+            "mesh_id": "D008870"
+        },
+        {
+            "text": "terbinafine",
+            "mesh_id": "D061187"
+        },
+        {
+            "text": "bradycardia",
+            "mesh_id": "D001179"
+        },
+        {
+            "text": "sinus bradycardia",
+            "mesh_id": "D020332"
+        },
+        {
+            "text": "coronary artery disease",
+            "mesh_id": "D003324"
+        },
+        {
+            "text": "onychomycosis",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "confusion",
+            "mesh_id": "D003161"
+        },
+        {
+            "text": "adverse drug reaction",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "bisoprolol",
+            "mesh_id": "D018352"
+        }
+    ],
+    "24897009": [
+        {
+            "text": "peripheral neuropathy",
+            "mesh_id": "D009466"
+        },
+        {
+            "text": "ethambutol",
+            "mesh_id": "D004705"
+        },
+        {
+            "text": "Ethambutol",
+            "mesh_id": "D004705"
+        },
+        {
+            "text": "optic neuropathy",
+            "mesh_id": "D010346"
+        },
+        {
+            "text": "polyneuropathy",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "visual loss",
+            "mesh_id": "D014352"
+        },
+        {
+            "text": "paresthesias",
+            "mesh_id": "D010174"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014806"
+        }
+    ],
+    "24902786": [
+        {
+            "text": "Testosterone",
+            "mesh_id": "D014940"
+        },
+        {
+            "text": "streptozotocin",
+            "mesh_id": "D013611"
+        },
+        {
+            "text": "memory impairment",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "testosterone",
+            "mesh_id": "D014940"
+        },
+        {
+            "text": "STZ",
+            "mesh_id": "D013611"
+        },
+        {
+            "text": "androgen",
+            "mesh_id": "D000754"
+        },
+        {
+            "text": "flutamide",
+            "mesh_id": "D005850"
+        },
+        {
+            "text": "estrogen",
+            "mesh_id": "D004687"
+        },
+        {
+            "text": "tamoxifen",
+            "mesh_id": "D014327"
+        },
+        {
+            "text": "letrozole",
+            "mesh_id": "D020636"
+        },
+        {
+            "text": "impaired the memory",
+            "mesh_id": "D008875"
+        }
+    ],
+    "24911645": [
+        {
+            "text": "garcinielliptone FC",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "pilocarpine",
+            "mesh_id": "D010853"
+        },
+        {
+            "text": "seizures",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "Garcinielliptone FC",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "GFC",
+            "mesh_id": "D000082"
+        },
+        {
+            "text": "skin diseases",
+            "mesh_id": "D012114"
+        },
+        {
+            "text": "diarrheas",
+            "mesh_id": "D003139"
+        },
+        {
+            "text": "inflammatory diseases",
+            "mesh_id": "D007249"
+        },
+        {
+            "text": "seizure",
+            "mesh_id": "D012640"
+        },
+        {
+            "text": "amino acid",
+            "mesh_id": "D000266"
+        },
+        {
+            "text": "r-aminobutyric acid",
+            "mesh_id": "D000416"
+        },
+        {
+            "text": "GABA",
+            "mesh_id": "D000416"
+        },
+        {
+            "text": "glutamine",
+            "mesh_id": "D005810"
+        },
+        {
+            "text": "aspartate",
+            "mesh_id": "D001027"
+        },
+        {
+            "text": "glutathione",
+            "mesh_id": "D005816"
+        },
+        {
+            "text": "glutamate",
+            "mesh_id": "D005812"
+        },
+        {
+            "text": "status epilepticus",
+            "mesh_id": "D012641"
+        }
+    ],
+    "24923469": [
+        {
+            "text": "acute kidney injury",
+            "mesh_id": "D014440"
+        },
+        {
+            "text": "Acute kidney injury",
+            "mesh_id": "D014440"
+        },
+        {
+            "text": "AKI",
+            "mesh_id": "D014440"
+        },
+        {
+            "text": "nephrotoxic",
+            "mesh_id": "D009362"
+        },
+        {
+            "text": "vancomycin",
+            "mesh_id": "D014374"
+        },
+        {
+            "text": "gentamicin",
+            "mesh_id": "D005850"
+        },
+        {
+            "text": "tobramycin",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "infections",
+            "mesh_id": "D007239"
+        }
+    ],
+    "24927617": [
+        {
+            "text": "Rhabdomyolysis",
+            "mesh_id": "D012636"
+        },
+        {
+            "text": "hepatitis C virus infected",
+            "mesh_id": "D006526"
+        },
+        {
+            "text": "telaprevir",
+            "mesh_id": "D061158"
+        },
+        {
+            "text": "simvastatin",
+            "mesh_id": "D012153"
+        },
+        {
+            "text": "hepatitis C virus infection",
+            "mesh_id": "D006526"
+        },
+        {
+            "text": "ribavirin",
+            "mesh_id": "D007022"
+        },
+        {
+            "text": "pegylated interferon",
+            "mesh_id": "D020153"
+        },
+        {
+            "text": "rhabdomyolysis",
+            "mesh_id": "D012636"
+        },
+        {
+            "text": "toxicity",
+            "mesh_id": "D014777"
+        },
+        {
+            "text": "creatine",
+            "mesh_id": "D003548"
+        },
+        {
+            "text": "Telaprevir",
+            "mesh_id": "D061158"
+        },
+        {
+            "text": "Simvastatin",
+            "mesh_id": "D012153"
+        },
+        {
+            "text": "statin",
+            "mesh_id": "D012153"
+        },
+        {
+            "text": "muscle toxicity",
+            "mesh_id": "D020521"
+        },
+        {
+            "text": "statins",
+            "mesh_id": "D012153"
+        }
+    ],
+    "24928523": [
+        {
+            "text": "bortezomib",
+            "mesh_id": "D061507"
+        },
+        {
+            "text": "thalidomide",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "dexamethasone",
+            "mesh_id": "D004023"
+        },
+        {
+            "text": "multiple myeloma",
+            "mesh_id": "D009231"
+        },
+        {
+            "text": "MM",
+            "mesh_id": "D009231"
+        },
+        {
+            "text": "neutropenia",
+            "mesh_id": "D009206"
+        },
+        {
+            "text": "thrombocytopenia",
+            "mesh_id": "D013812"
+        },
+        {
+            "text": "cytopenia",
+            "mesh_id": "D002277"
+        },
+        {
+            "text": "Peripheral neuropathy",
+            "mesh_id": "D010276"
+        },
+        {
+            "text": "peripheral neuropathy",
+            "mesh_id": "D010276"
+        }
+    ],
+    "24971338": [
+        {
+            "text": "sirolimus",
+            "mesh_id": "D012695"
+        },
+        {
+            "text": "cyclosporine",
+            "mesh_id": "D003899"
+        },
+        {
+            "text": "nephropathy",
+            "mesh_id": "D009392"
+        },
+        {
+            "text": "cyclosporin A",
+            "mesh_id": "D003899"
+        },
+        {
+            "text": "CsA",
+            "mesh_id": "D003899"
+        },
+        {
+            "text": "SRL",
+            "mesh_id": "D012695"
+        },
+        {
+            "text": "Renal lesions",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "hematoxylin",
+            "mesh_id": "D006942"
+        },
+        {
+            "text": "eosin",
+            "mesh_id": "D004802"
+        },
+        {
+            "text": "proteinuria",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "renal impairment",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "kidney lesions",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "renal damage",
+            "mesh_id": "D007676"
+        }
+    ],
+    "24975837": [
+        {
+            "text": "cisplatin",
+            "mesh_id": "D002769"
+        },
+        {
+            "text": "acute renal injury",
+            "mesh_id": "D014345"
+        },
+        {
+            "text": "Cisplatin",
+            "mesh_id": "D002769"
+        },
+        {
+            "text": "acute kidney injury",
+            "mesh_id": "D014345"
+        },
+        {
+            "text": "creatinine",
+            "mesh_id": "D003576"
+        },
+        {
+            "text": "urea",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "acute tubular necrosis",
+            "mesh_id": "D000077"
+        },
+        {
+            "text": "inflammation",
+            "mesh_id": "D007249"
+        },
+        {
+            "text": "diabetic nephropathy",
+            "mesh_id": "D003922"
+        },
+        {
+            "text": "weight loss",
+            "mesh_id": "D014633"
+        },
+        {
+            "text": "necrotic",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "nephrotoxicity",
+            "mesh_id": "D009362"
+        }
+    ],
+    "24999722": [
+        {
+            "text": "fluocinolone acetonide",
+            "mesh_id": "D005796"
+        },
+        {
+            "text": "birdshot retinochoroidopathy",
+            "mesh_id": "D059995"
+        },
+        {
+            "text": "inflammation",
+            "mesh_id": "D007239"
+        },
+        {
+            "text": "retinal vasculitis",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "cataract",
+            "mesh_id": "D002281"
+        },
+        {
+            "text": "raised intraocular pressure",
+            "mesh_id": "D007282"
+        },
+        {
+            "text": "vasculitis",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "cystoid macular edema",
+            "mesh_id": "D015153"
+        },
+        {
+            "text": "increased intraocular pressure",
+            "mesh_id": "D007282"
+        },
+        {
+            "text": "ocular hypertension",
+            "mesh_id": "D007282"
+        }
+    ],
+    "25006369": [
+        {
+            "text": "rocuronium",
+            "mesh_id": "D019153"
+        },
+        {
+            "text": "fasciculation",
+            "mesh_id": "D005261"
+        },
+        {
+            "text": "myalgia",
+            "mesh_id": "D009202"
+        },
+        {
+            "text": "succinylcholine",
+            "mesh_id": "D012225"
+        },
+        {
+            "text": "Succinylcholine",
+            "mesh_id": "D012225"
+        },
+        {
+            "text": "muscle fasciculation",
+            "mesh_id": "D005261"
+        },
+        {
+            "text": "fasciculations",
+            "mesh_id": "D005261"
+        }
+    ],
+    "25006961": [
+        {
+            "text": "lithium",
+            "mesh_id": "D007881"
+        },
+        {
+            "text": "nephrogenic diabetes insipidus",
+            "mesh_id": "D009430"
+        },
+        {
+            "text": "Lithium",
+            "mesh_id": "D007881"
+        },
+        {
+            "text": "NDI",
+            "mesh_id": "D009430"
+        },
+        {
+            "text": "cAMP",
+            "mesh_id": "D015179"
+        },
+        {
+            "text": "urea",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "polyuria",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "sodium",
+            "mesh_id": "D012007"
+        },
+        {
+            "text": "potassium",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "calcium",
+            "mesh_id": "D002318"
+        }
+    ],
+    "25031906": [
+        {
+            "text": "Dysguesia",
+            "mesh_id": "D004625"
+        },
+        {
+            "text": "Amlodipine",
+            "mesh_id": "D000082574"
+        },
+        {
+            "text": "amlodipine",
+            "mesh_id": "D000082574"
+        },
+        {
+            "text": "dysguesia",
+            "mesh_id": "D004625"
+        },
+        {
+            "text": "hypertension",
+            "mesh_id": "D006973"
+        },
+        {
+            "text": "loss of taste sensation",
+            "mesh_id": "D004625"
+        }
+    ],
+    "25041770": [
+        {
+            "text": "Rhabdomyolysis",
+            "mesh_id": "D012853"
+        },
+        {
+            "text": "simvastatin",
+            "mesh_id": "D016073"
+        },
+        {
+            "text": "clarithromycin",
+            "mesh_id": "D002899"
+        },
+        {
+            "text": "Clarithromycin",
+            "mesh_id": "D002899"
+        },
+        {
+            "text": "rhabdomyolysis",
+            "mesh_id": "D012853"
+        },
+        {
+            "text": "myopathy",
+            "mesh_id": "D009203"
+        },
+        {
+            "text": "statin",
+            "mesh_id": "D015658"
+        }
+    ],
+    "25054547": [
+        {
+            "text": "apnea",
+            "mesh_id": "D000431"
+        },
+        {
+            "text": "suxamethonium",
+            "mesh_id": "D013015"
+        },
+        {
+            "text": "Butyrylcholinesterase deficiency",
+            "mesh_id": "D059995"
+        },
+        {
+            "text": "mivacurium",
+            "mesh_id": "D008054"
+        },
+        {
+            "text": "butyrylthiocholine",
+            "mesh_id": "D000785"
+        },
+        {
+            "text": "BTC",
+            "mesh_id": "D000785"
+        },
+        {
+            "text": "benzoylcholine",
+            "mesh_id": "D000785"
+        },
+        {
+            "text": "dibucaine",
+            "mesh_id": "D004332"
+        },
+        {
+            "text": "fluoride",
+            "mesh_id": "D005786"
+        },
+        {
+            "text": "hydrogen",
+            "mesh_id": "D006927"
+        }
+    ],
+    "25071004": [
+        {
+            "text": "anemia",
+            "mesh_id": "D000787"
+        },
+        {
+            "text": "artesunate",
+            "mesh_id": "D018083"
+        },
+        {
+            "text": "hemolytic anemia",
+            "mesh_id": "D006434"
+        },
+        {
+            "text": "malaria",
+            "mesh_id": "D008288"
+        }
+    ],
+    "25080425": [
+        {
+            "text": "betaine",
+            "mesh_id": "D001037"
+        },
+        {
+            "text": "isoproterenol",
+            "mesh_id": "D007328"
+        },
+        {
+            "text": "myocardial injury",
+            "mesh_id": "D009203"
+        },
+        {
+            "text": "myocardial ischemia",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "myocardial ischemic injury",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "ventricular remodeling",
+            "mesh_id": "D059346"
+        },
+        {
+            "text": "myocardial damage",
+            "mesh_id": "D009203"
+        }
+    ],
+    "25084821": [
+        {
+            "text": "Quetiapine",
+            "mesh_id": "D015074"
+        },
+        {
+            "text": "neutropenia",
+            "mesh_id": "D009206"
+        },
+        {
+            "text": "bipolar",
+            "mesh_id": "D001523"
+        },
+        {
+            "text": "hepatocellular carcinoma",
+            "mesh_id": "D006556"
+        },
+        {
+            "text": "clozapine",
+            "mesh_id": "D002315"
+        },
+        {
+            "text": "blood dyscrasias",
+            "mesh_id": "D014806"
+        },
+        {
+            "text": "quetiapine",
+            "mesh_id": "D015074"
+        },
+        {
+            "text": "bipolar disorder",
+            "mesh_id": "D001523"
+        },
+        {
+            "text": "leucopenia",
+            "mesh_id": "D008217"
+        },
+        {
+            "text": "Hepatic dysfunction",
+            "mesh_id": "D006506"
+        },
+        {
+            "text": "fever",
+            "mesh_id": "D005334"
+        }
+    ],
+    "25096313": [
+        {
+            "text": "neuropathy",
+            "mesh_id": "D009460"
+        },
+        {
+            "text": "steroid",
+            "mesh_id": "D012968"
+        },
+        {
+            "text": "lateral epicondylitis",
+            "mesh_id": "D016024"
+        },
+        {
+            "text": "paresthesia",
+            "mesh_id": "D010174"
+        },
+        {
+            "text": "pain",
+            "mesh_id": "D010146"
+        }
+    ],
+    "25119790": [
+        {
+            "text": "Curcumin",
+            "mesh_id": "D017239"
+        },
+        {
+            "text": "maleate",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "nephrotoxicity",
+            "mesh_id": "D009365"
+        },
+        {
+            "text": "oxygen",
+            "mesh_id": "D010170"
+        },
+        {
+            "text": "curcumin",
+            "mesh_id": "D017239"
+        },
+        {
+            "text": "renal injury",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "proteinuria",
+            "mesh_id": "D011612"
+        },
+        {
+            "text": "Maleate",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "glucose",
+            "mesh_id": "D005947"
+        },
+        {
+            "text": "sodium",
+            "mesh_id": "D012022"
+        },
+        {
+            "text": "kidney injury",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "necrosis",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "ADP",
+            "mesh_id": "D000328"
+        },
+        {
+            "text": "malate",
+            "mesh_id": "D008875"
+        },
+        {
+            "text": "glutamate",
+            "mesh_id": "D005784"
+        },
+        {
+            "text": "nephropathy",
+            "mesh_id": "D009365"
+        }
+    ],
+    "25907210": [
+        {
+            "text": "tumours",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "organophosphate",
+            "mesh_id": "D010146"
+        },
+        {
+            "text": "diazinon",
+            "mesh_id": "D004015"
+        },
+        {
+            "text": "Diazinon",
+            "mesh_id": "D004015"
+        },
+        {
+            "text": "lung cancer",
+            "mesh_id": "D002283"
+        },
+        {
+            "text": "cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "tumour",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "Kidney cancer",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "prostate cancer",
+            "mesh_id": "D011471"
+        },
+        {
+            "text": "kidney cancer",
+            "mesh_id": "D007676"
+        }
+    ],
+    "25951420": [
+        {
+            "text": "Ozone",
+            "mesh_id": "D010126"
+        },
+        {
+            "text": "Parkinson's Disease",
+            "mesh_id": "D010300"
+        },
+        {
+            "text": "ozone",
+            "mesh_id": "D010126"
+        },
+        {
+            "text": "particulate matter",
+            "mesh_id": "D052638"
+        },
+        {
+            "text": "Parkinson's disease",
+            "mesh_id": "D010300"
+        }
+    ],
+    "25986755": [
+        {
+            "text": "glomerulosclerosis",
+            "mesh_id": "D005973"
+        },
+        {
+            "text": "caffeine",
+            "mesh_id": "D002319"
+        },
+        {
+            "text": "intrauterine growth retardation",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "IUGR",
+            "mesh_id": "D007676"
+        },
+        {
+            "text": "interstitial fibrosis",
+            "mesh_id": "D018352"
+        },
+        {
+            "text": "creatinine",
+            "mesh_id": "D003576"
+        },
+        {
+            "text": "angiotensin II",
+            "mesh_id": "D000680"
+        },
+        {
+            "text": "tyrosine",
+            "mesh_id": "D013576"
+        },
+        {
+            "text": "dysplasia of fetal kidneys",
+            "mesh_id": "D004001"
+        }
+    ],
+    "26002693": [
+        {
+            "text": "1,3-Butadiene",
+            "mesh_id": "D000073"
+        },
+        {
+            "text": "CML",
+            "mesh_id": "D002283"
+        },
+        {
+            "text": "1,3-butadiene",
+            "mesh_id": "D000073"
+        },
+        {
+            "text": "chronic myeloid leukemia",
+            "mesh_id": "D002283"
+        },
+        {
+            "text": "Philadelphia chromosome",
+            "mesh_id": "D018936"
+        }
+    ],
+    "26033014": [
+        {
+            "text": "Cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "metolachlor",
+            "mesh_id": "D015015"
+        },
+        {
+            "text": "Metolachlor",
+            "mesh_id": "D015015"
+        },
+        {
+            "text": "liver neoplasms",
+            "mesh_id": "D008103"
+        },
+        {
+            "text": "cancer",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "cancers",
+            "mesh_id": "D009369"
+        },
+        {
+            "text": "liver cancer",
+            "mesh_id": "D008103"
+        },
+        {
+            "text": "metolachor",
+            "mesh_id": "D015015"
+        },
+        {
+            "text": "follicular cell lymphoma",
+            "mesh_id": "D008175"
+        },
+        {
+            "text": "lymphoma",
+            "mesh_id": "D008175"
+        },
+        {
+            "text": "lung cancer",
+            "mesh_id": "D002283"
+        }
+    ]
+}
