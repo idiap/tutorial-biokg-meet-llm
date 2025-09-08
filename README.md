@@ -9,12 +9,12 @@ This tutorial focuses on the complementary nature of Biomedical Knowledge Graphs
 The tutorial notebooks will be segmented in 4 parts:
 
 - LLM for Knowledge Graph:
-    - [Building KG using LLM - NER/RE](notebooks/Named_Entity_Recognition_and_Relation_Extraction.ipynb) (*part 1*)
-    - [Entity Linking](notebooks/Entity_Linking.ipynb) (*optional part 1.5*)
+    - [Building KG using LLM - NER/RE](https://colab.research.google.com/github/idiap/tutorial-biokg-meet-llm/blob/main/notebooks/Named_Entity_Recognition_and_Relation_Extraction.ipynb) (*part 1*)
+    - [Entity Linking](https://colab.research.google.com/github/idiap/tutorial-biokg-meet-llm/blob/main/notebooks/Entity_Linking.ipynb) (*optional part 1.5*)
 
 - KG for LLM
-    - [Inference and prediction using LLM x KG](notebooks/inference_kg_rag.ipynb) (*part 2*)
-    - [BioTopg - a biomedical GraphRAG framework](notebooks/biotopg.ipynb) (*part 3*)
+    - [Inference and prediction using LLM x KG](https://colab.research.google.com/github/idiap/tutorial-biokg-meet-llm/blob/main/notebooks/inference_kg_rag.ipynb) (*part 2*)
+    - [BioTopg - a biomedical GraphRAG framework](https://colab.research.google.com/github/idiap/tutorial-biokg-meet-llm/blob/main/notebooks/biotopg.ipynb) (*part 3*)
 
 The notebook are intially meant to be used with Google colab.
 
