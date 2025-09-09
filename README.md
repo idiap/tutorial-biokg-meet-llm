@@ -26,5 +26,9 @@ While notebooks show how to use ollama to *locally* run LLM directly inside the 
 OPENAI_API_KEY="sk-proj..."
 ```
 
-The slides of the session and the recording will be made available asap.
+Similarly, if you want to build zour own Neo4J aura session (for the BioASQ examples in *part-1* and *part-2*, please create an account [here](https://neo4j.com/product/auradb/).
+Then you will be able to use your own credentials in the section 4. Large scale extraction and Neo4J.
+
+
+
 
